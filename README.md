@@ -1,4 +1,4 @@
-# Youtube_Clisp
+# Youtube(Vlogger)
 
 System ekspecki zaimplenmentowany za pomocą CLISP.
 
