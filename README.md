@@ -1,6 +1,7 @@
 # Youtube(Vlogger)
 
 System ekspecki zaimplenmentowany za pomocą CLISP.
+Interefejs programy został wdrożony za pomocą języka Java.
 
 Zadaniem programu jest doradzanie użytkownikowi
 wyboru kanału w serwisie Youtube.
