@@ -1,7 +1,8 @@
 # Youtube(Vlogger)
 
 System ekspercki zaimplenmentowany za pomocą CLISP.
-Interefejs programy został wdrożony za pomocą języka Java.
+Interefejs programu został wdrożony za pomocą języka Java.
+Ten system został przygotowany w ramach przedmiotu sztuczna inteligencja.
 
 Zadaniem programu jest doradzanie użytkownikowi
 wyboru kanału w serwisie Youtube.
