@@ -5,8 +5,6 @@ System został przygotowany w ramach przedmiotu sztuczna inteligencja.
 System ekspercki został zaimplenmentowany za pomocą języka CLISP.
 Do implementacji jesgo interefejsu użyto języka Java.
 
-Ten system został przygotowany w ramach przedmiotu sztuczna inteligencja.
-
 Zadaniem programu jest doradzanie użytkownikowi
 wyboru kanału w serwisie Youtube.
 
