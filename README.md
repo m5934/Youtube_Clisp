@@ -1,8 +1,8 @@
 # Youtube(Vlogger)
 
-System został przygotowany w ramach przedmiotu sztuczna inteligencja.
+System został wdrożony w ramach przedmiotu sztuczna inteligencja.
 
-System ekspercki został zaimplenentowany za pomocą języka **CLIPS**.
+Powyższy system został zaimplenentowany za pomocą języka **CLIPS**.
 </br>
 Do implementacji interefejsu systemu użyto języka **Java**.
 
