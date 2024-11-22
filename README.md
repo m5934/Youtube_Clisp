@@ -1,6 +1,8 @@
 # Youtube(Vlogger)
 
-System został wdrożony w ramach przedmiotu sztuczna inteligencja.
+## Opis projektu
+System został wdrożony w ramach przedmiotu sztuczna inteligencja
+w PWSZ Gniezno. Obecna nazwa uczelni do ANS Gniezno.
 
 Powyższy system został zaimplenentowany za pomocą języka **CLIPS**.
 </br>
@@ -13,8 +15,7 @@ Użytkownik odpowiadając na pytania
 otrzymuje nazwę kanału,
 </br>który ma być zgodny z jego zainteresowaniami.
 
+## Dodadkowe informacje
+
 Linki prowadzący do oficjalnej strony języka CLIPS.
 https://www.clipsrules.net/
-
-Autor systemu eksperckiego:
-Michał Wojciechowski
