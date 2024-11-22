@@ -32,6 +32,9 @@ jaki kanał jest odpowiedni dla użytkownika.
 1. Jedna poprawna odpowiedź dla jednego dialogu.
 2. Tylko dwie możliwe odpowiedzi użytkownika.
 
+## Wymagania niefunkcjonalne
+Łatwość użytkowania systemu.
+
 ## Dodadkowe informacje
 
 Linki prowadzący do oficjalnej strony języka CLIPS.
