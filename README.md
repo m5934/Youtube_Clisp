@@ -19,6 +19,15 @@ otrzymuje nazwę kanału,
 ## Funkcje
 System pomaga znaleźć kanał na platformie Youtube odpowiedniego do zainteresowań użytkowanika.
 
+## Architektura systemu
+System jest oparty na szkielecie systemu CLIPS.
+
+Działanie programu opiera się na dialogu,
+który można przedstawić w formie schematu pytań i odpowiedzi.
+
+Dialog z użytkownikiem trwa do czasu uzyskania odpowiedzi na pytanie
+jaki kanał jest odpowiedni dla użytkownika.
+
 
 ## Dodadkowe informacje
 
