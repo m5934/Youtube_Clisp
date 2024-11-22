@@ -28,6 +28,9 @@ który można przedstawić w formie schematu pytań i odpowiedzi.
 Dialog z użytkownikiem trwa do czasu uzyskania odpowiedzi na pytanie
 jaki kanał jest odpowiedni dla użytkownika.
 
+## Wymagania funckjonalne
+1. Jedna poprawna odpowiedź dla jednego dialogu.
+2. Tylko dwie możliwe odpowiedzi użytkownika.
 
 ## Dodadkowe informacje
 
