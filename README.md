@@ -34,8 +34,5 @@ jaki kanał jest odpowiedni dla użytkownika.
 
 ## Wymagania niefunkcjonalne
 Łatwość użytkowania systemu.
-
-## Dodadkowe informacje
-
 Linki prowadzący do oficjalnej strony języka CLIPS.
 https://www.clipsrules.net
