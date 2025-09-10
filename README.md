@@ -3,11 +3,11 @@
 ## Opis projektu
 System został wdrożony w ramach przedmiotu sztuczna inteligencja
 w PWSZ Gniezno.
-Obecna nazwa uczelni do ANS Gniezno.
+Obecnnie znana jako ANS Gniezno.
 
 Powyższy system został zaimplenentowany za pomocą języka **CLIPS**.
 </br>
-Do implementacji interefejsu systemu użyto języka **Java**.
+Do implementacji samego interefejsu systemu użyto języka **Java**.
 
 Zadaniem programu jest doradzanie użytkownikowi
 wyboru kanału w serwisie Youtube.
@@ -34,8 +34,5 @@ jaki kanał jest odpowiedni dla użytkownika.
 
 ## Wymagania niefunkcjonalne
 Łatwość użytkowania systemu.
-
-## Dodadkowe informacje
-
 Linki prowadzący do oficjalnej strony języka CLIPS.
-https://www.clipsrules.net/
+https://www.clipsrules.net
