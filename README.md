@@ -2,8 +2,8 @@
 
 ## Opis projektu
 System został wdrożony w ramach przedmiotu sztuczna inteligencja
-w PWSZ Gniezno.
-Obecnnie znana jako ANS Gniezno.
+na PWSZ Gniezno.
+</br>Obecnie uczelnia znana jest jako ANS Gniezno.
 
 Powyższy system został zaimplenentowany za pomocą języka **CLIPS**.
 </br>
@@ -34,5 +34,5 @@ jaki kanał jest odpowiedni dla użytkownika.
 
 ## Wymagania niefunkcjonalne
 Łatwość użytkowania systemu.
-Linki prowadzący do oficjalnej strony języka CLIPS.
+Link prowadzący do oficjalnej strony języka CLIPS.
 https://www.clipsrules.net
